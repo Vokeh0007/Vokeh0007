@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on a website that integrates AI to help learners<br>👯 I’m looking to collaborate on projects concerned with AI and agriculture <br>>🌱 I’m currently learning flask and also digital marketing<br>💬 Ask me about anything computer science related<br>⚡ Fun fact -- I love gamimg.
+🔭 I’m currently working on a website that integrates AI to help learners<br>
+👯 I’m looking to collaborate on projects concerned with AI and agriculture <br>🌱 I’m currently learning flask and also digital marketing<br>💬 Ask me about anything computer science related<br>⚡ Fun fact -- I love gamimg.
 
 
 ## 🌐 Socials:
